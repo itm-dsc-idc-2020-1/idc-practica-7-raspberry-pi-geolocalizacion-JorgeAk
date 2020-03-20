@@ -1,0 +1,8 @@
+/*	php_mi_mapa.css	*/
+
+#mapa {
+    width: 1000px;
+    height: 500px;
+    border:solid 2px yellow;
+	background:green;
+}
