@@ -6,5 +6,5 @@ Práctica 7: Raspberry Pi (geolocalización)
 <p> Instrucciones</p>
 <p>Recomiendo el uso del paquete de software XAMPP</p>
 <p> Crear la base de datos con el comando "CREATE DATABASE php_mi_mapa"
-<p>Importar el archivo prueba.sql al manejador de base de datos
+<p>Importar el archivo php_mi_mapa.sql al manejador de base de datos
 y montar los archivos a un servidor apache</p>  
